@@ -3,7 +3,7 @@
  * @github: arturogonzalezp
  * @webpage: http://arturogp.com
  * 
- * Hackerrank: https://www.hackerrank.com/challenges/crush
+ * Hackerrank: https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list
  */
 
 /*
